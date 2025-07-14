@@ -52,6 +52,16 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				telegram: {
+					DEFAULT: '#0088CC',
+					dark: '#0066AA',
+					light: '#00A0E4'
+				},
+				'telegram-gray': {
+					DEFAULT: '#F7F7F7',
+					dark: '#2C2C2C',
+					light: '#FFFFFF'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
